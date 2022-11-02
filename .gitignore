@@ -5,8 +5,10 @@ AssignmentTemplates/.ipynb_checkpoints/*
 AssignmentSolutions/.ipynb_checkpoints/*
 JupyterNotebooks/OpAmps/.ipynb_checkpoints/*
 JupyterNotebooks/ODB/.ipynb_checkpoints/*
+JupyterNotebooks/WeatherPrediction/.ipynb_checkpoints/*
 Untitled*.ipynb
 __pycache__/*
+JupyterNotebooks/__pycache__/*
 Fall2020/*
 AssignmentSolutions/final/*
 venv/*
